@@ -1,0 +1,25 @@
+#nav-list{
+	text-align: center;
+}
+
+#header-nav{
+	background-color:#d6f5f5;
+}
+
+section.col-xs-12{
+	height: 1000px;
+
+	background-color: #f2f2f2;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
+#main-content div{
+	font-size: 125%;
+	font-style:italic;
+	padding: 30px;
+	color:#1e7b7b;
+
+}
